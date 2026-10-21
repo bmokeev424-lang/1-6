@@ -1,0 +1,34 @@
+[
+    {
+        "inventory_number": "EQ-001",
+        "name": "Токарный станок 16К20",
+        "equipment_type": "станок",
+        "department": "Механический цех",
+        "production_year": 2018,
+        "status": "working"
+    },
+    {
+        "inventory_number": "EQ-002",
+        "name": "Сервер Dell PowerEdge",
+        "equipment_type": "сервер",
+        "department": "IT-отдел",
+        "production_year": 2015,
+        "status": "repair"
+    },
+    {
+        "inventory_number": "EQ-003",
+        "name": "Компрессор Atlas Copco",
+        "equipment_type": "компрессор",
+        "department": "Цех №2",
+        "production_year": 2020,
+        "status": "broken"
+    },
+    {
+        "inventory_number": "EQ-004",
+        "name": "Принтер HP LaserJet",
+        "equipment_type": "принтер",
+        "department": "Бухгалтерия",
+        "production_year": 2022,
+        "status": "working"
+    }
+]

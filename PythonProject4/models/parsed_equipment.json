@@ -1,0 +1,22 @@
+[
+    {
+        "inventory_number": "EQ-001",
+        "name": "Токарный станок 16К20",
+        "status": "working"
+    },
+    {
+        "inventory_number": "EQ-002",
+        "name": "Сервер Dell PowerEdge",
+        "status": "repair"
+    },
+    {
+        "inventory_number": "EQ-003",
+        "name": "Компрессор Atlas Copco",
+        "status": "broken"
+    },
+    {
+        "inventory_number": "EQ-004",
+        "name": "Принтер HP LaserJet",
+        "status": "working"
+    }
+]

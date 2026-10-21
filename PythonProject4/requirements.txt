@@ -1,0 +1,9 @@
+Django
+djangorestframework
+fastapi
+uvicorn
+pika
+aio-pika
+pymongo
+pytest
+httpx
